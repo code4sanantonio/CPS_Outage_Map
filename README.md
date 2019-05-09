@@ -1,8 +1,7 @@
 # cps-outage-map
 
 ## What is the problem
-When the power goes out it can be hard to distinguish the cause of the issue *especally in the more rural parts of San Antonio*.
-With out working wifi the only way to trouble shoot is to reset your fuse box then call CPS energy to report an outage. Once you call in the only way to verify it was reported is to navigate to this <a href="http://outagemap.cpsenergy.com/CPSStaticMapsEXT/CPSStaticMapV2_EXT.html">CPS outagemap</a> on mobile. 
+When the power goes out it can be hard to distinguish the cause of the issue *especially in the more rural parts of San Antonio.* Without working wifi the only way to troubleshoot is to reset your fuse box then call CPS energy to report an outage. Once you call in the only way to verify it was reported is to navigate to this <a href="http://outagemap.cpsenergy.com/CPSStaticMapsEXT/CPSStaticMapV2_EXT.html">CPS outage map</a> on mobile. 
 
 ### Why this is a problem
 - The site is not mobile friendly
@@ -12,6 +11,6 @@ With out working wifi the only way to trouble shoot is to reset your fuse box th
 
 
 ### Possible solutions to problem
-- Find ways to pull data from the <a href="http://outagemap.cpsenergy.com/CPSStaticMapsEXT/CPSStaticMapV2_EXT.html" > outagemap</a> on to a more accessible and user friendly web application.
+- Find ways to pull data from the <a href="http://outagemap.cpsenergy.com/CPSStaticMapsEXT/CPSStaticMapV2_EXT.html" > outagemap</a> on to a more accessible and user-friendly web application.
 
  
