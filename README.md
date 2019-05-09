@@ -1,4 +1,4 @@
-# cps-outage-map
+# cps_outage_map
 
 ## What is the problem
 When the power goes out it can be hard to distinguish the cause of the issue *especially in the more rural parts of San Antonio.* Without working wifi the only way to troubleshoot is to reset your fuse box then call CPS energy to report an outage. Once you call in the only way to verify it was reported is to navigate to this <a href="http://outagemap.cpsenergy.com/CPSStaticMapsEXT/CPSStaticMapV2_EXT.html">CPS outage map</a> on mobile. 
