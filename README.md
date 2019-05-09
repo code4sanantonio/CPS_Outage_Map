@@ -8,6 +8,10 @@ With out working wifi the only way to trouble shoot is to reset your fuse box th
 - The site is not mobile friendly
 - The site is using insecure HTTP
 
-### How do we solve this problem
-By finding ways to pull data from the <a href="http://outagemap.cpsenergy.com/CPSStaticMapsEXT/CPSStaticMapV2_EXT.html"> outagemap</a> on to a more accessible and user friendly web application.
+<img src="https://i.imgur.com/js26585.png" width="250" height="235"> <img src="https://i.imgur.com/1VnZrzz.png" width="250">
+
+
+### Possible solutions to problem
+- Find ways to pull data from the <a href="http://outagemap.cpsenergy.com/CPSStaticMapsEXT/CPSStaticMapV2_EXT.html" > outagemap</a> on to a more accessible and user friendly web application.
+
  
